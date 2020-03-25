@@ -11,3 +11,5 @@ A simple UI based android application.Layout consits of TextViews and basic Butt
   * Run the code in an emulator or an external device
   
 ## Application output
+
+<img src="Images/Hello%20Toast-LL.png" height=500>
