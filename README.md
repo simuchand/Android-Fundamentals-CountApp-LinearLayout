@@ -1,5 +1,13 @@
-<<<<<<< HEAD
 # Android-Fundamentals-CountApp
-=======
-# Android-Fundamentals-CountApp-LinearLayout
->>>>>>> d504f86181a1365fab8a57fe327a72ea29c174dd
+
+## Introduction
+
+A simple UI based android application.Layout consits of TextViews and basic Buttons elements. The application follows a "Linear Layout".
+
+## Getting-Started
+
+  * Download the code into your local pc
+  * Open the source code using Android Studio
+  * Run the code in an emulator or an external device
+  
+## Application output
