@@ -18,4 +18,4 @@ As an improvisitions from the previous ***CountApp***, here there is a separate 
 ## What Next?
  * The above application is designed based on **Linear Layout**
  * Check out the link here --> for [Constraint Layout](https://github.com/simuchand/Android-Fundamentals-CountApp-ConstraintLayout.git)
- * Check out the link here --> for [Constraint Layout](https://github.com/simuchand/Android-Fundamentals-CountApp-RelativeLayout.git)
+ * Check out the link here --> for [Relative Layout](https://github.com/simuchand/Android-Fundamentals-CountApp-RelativeLayout.git)
